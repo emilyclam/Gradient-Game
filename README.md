@@ -1,2 +1,2 @@
 # Gradient-Game
-A gradient game
+A gradient game: colored squares are mixed up and the user tries to put them back in order...
